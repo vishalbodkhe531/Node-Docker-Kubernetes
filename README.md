@@ -1,0 +1,1 @@
+1] docker build -t node-docker-kbr .   // for build the docker imgs
